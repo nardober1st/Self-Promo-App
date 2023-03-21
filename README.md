@@ -8,22 +8,25 @@ This app was made to facilitate the job seekers' lives.
 ## Technologies
 * Kotlin
   - Data Class
+  - Other Classes
 * ViewGroup
-    * RecyclerView
-    * CardView
+    * ScrollView
     * LinearLayout
     * ConstraintLayout
+    * CardView
 * UI Components
   - ImageView
+  - TextInputLayout
+  - TextInputEditLayout
+  - Checkbox
+  - Spinner
+  - Button
   - TextView
-  - View
-* FindViewById to get UI Components
-* RecyclerView Adapter
 
-
+Explicit and Implicit Intents
+  
 ### TODO
 - Update App's design
-- Add new features to the App
 
 ## Author
 Bernardo Oechsler (follow me on [Linkedin](https://www.linkedin.com/in/bernardo-oechsler-b84995194))
