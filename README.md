@@ -3,7 +3,7 @@ This app was made to facilitate the job seekers' lives.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="screenshot_main_screen.png" width="230">&emsp;<img src="screenshot_filled_main_screen.png" width="230">&emsp;<img src="screenshot_message_preview.png" width="240">&emsp;<img src="screenshot_message_sent.png" width="230">&emsp;
+<img src="screenshot_main_screen.png" width="220">&emsp;<img src="screenshot_filled_main_screen.png" width="220">&emsp;<img src="screenshot_message_preview.png" width="220">&emsp;<img src="screenshot_message_sent.png" width="220">&emsp;
 
 ## Technologies
 * Kotlin
